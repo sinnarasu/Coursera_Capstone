@@ -1,0 +1,9 @@
+# Coursera_Capstone Data Science Project by Nades Nadeswaran
+This Project is being kicked off to enable the opportunity to gain hands-on experience leveraging the 
+knowledge and skills gained during the IBM / Coursera Data Science Course Modules. Am really excited 
+and looking forward to collaborate and have lots of FUN!!
+
+
+import pandas as pd
+import numpy as np
+print(' Hello Capstone Project Course!)
